@@ -1,0 +1,11 @@
+{
+  "name": "lab1_plotnikov",
+  "version": "1.0.0",
+  "description": "first task",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "slavdude",
+  "license": "ISC"
+}
